@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Education">
+    <meta name="description" content="">
+    <title>Home</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.2.4, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "WebSite3704803",
+		"logo": "images/stanford_medicine_logo.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Home">
+    <meta property="og:type" content="website">
+  </head>
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-bf2e"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="618" data-image-height="180">
+          <img src="images/stanford_medicine_logo.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1.25rem; letter-spacing: 0px; text-transform: uppercase; font-weight: 500;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-color u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-palette-2-base u-border-2 u-border-active-black u-border-grey-75 u-border-hover-black u-button-style u-hover-black u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Home.html" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-active-palette-2-base u-border-2 u-border-active-black u-border-grey-75 u-border-hover-black u-button-style u-hover-black u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Publications.html" style="padding: 10px 20px;">Publications</a>
+</li><li class="u-nav-item"><a class="u-active-palette-2-base u-border-2 u-border-active-black u-border-grey-75 u-border-hover-black u-button-style u-hover-black u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Contact.html" style="padding: 10px 20px;">Contact</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Publications.html">Publications</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html">Contact</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-align-center u-clearfix u-grey-10 u-section-1" id="sec-058e">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img src="images/round.png" alt="" class="u-image u-image-default u-image-1" data-image-width="589" data-image-height="589">
+        <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <h3 class="u-text u-text-default u-text-1" spellcheck="false">Praveenbalaji Rajendran</h3>
+            <p class="u-align-justify u-custom-font u-heading-font u-text u-text-2" spellcheck="false"> Praveenbalaji Rajendran is currently working as a
+postdoctoral fellow in the <a href="https://med.stanford.edu/xinglab.html" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" target="_blank">Laboratory of Artificial intelligence in Medicine and Biomedical Physics</a> led by Prof. Lei Xing at <a href="https://www.stanford.edu/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" target="_blank">Stanford University</a>, USA. He
+obtained his Ph.D. (Biomedical Engineering) in 2022 under the guidance of
+Assoc. Prof. Manojit Pramanik from <a href="https://www.ntu.edu.sg/cceb" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" target="_blank">Nanyang Technological University (NTU)</a>,
+Singapore. He obtained his &nbsp;M.Tech
+(Biomedical Engineering) degree from the Indian Institute of Technology (IIT),
+Hyderabad, India in 2017. His research interests include Deep Learning, Photoacoustic
+Imaging, &nbsp;Machine Learning, Image Reconstruction
+&amp; Molecular Imaging.&nbsp;&nbsp;
+            </p>
+          </div>
+        </div>
+        <div class="u-clearfix u-group-elements u-group-elements-1"><span class="u-file-icon u-icon u-icon-1" data-href="https://www.linkedin.com/in/praveenbalajir/" data-target="_blank"><img src="images/2504923.png" alt=""></span>
+          <h6 class="u-text u-text-3"> LinkedIn</h6>
+        </div>
+        <div class="u-clearfix u-group-elements u-group-elements-2"><span class="u-file-icon u-icon u-icon-2" data-href="https://github.com/R-P-B" data-target="_blank"><img src="images/5968866.png" alt=""></span>
+          <h6 class="u-text u-text-4"> GitHub</h6>
+        </div>
+        <div class="u-clearfix u-group-elements u-group-elements-3"><span class="u-file-icon u-icon u-icon-3" data-href="https://scholar.google.com/citations?user=UGczthcAAAAJ" data-target="_blank"><img src="images/Google_Scholar_logo.svg.png" alt=""></span>
+          <h6 class="u-align-center u-text u-text-default u-text-5"> Google&nbsp;<br>Scholar
+          </h6>
+        </div>
+        <div class="u-clearfix u-group-elements u-group-elements-4"><span class="u-file-icon u-icon u-icon-4" data-href="https://orcid.org/0000-0001-7878-9847" data-target="_blank"><img src="images/ORCID_iD.svg.png" alt=""></span>
+          <h6 class="u-align-center u-text u-text-6">ORCID<br>
+            <span style="font-size: 0.625rem;">0000-0001-7878-9847</span>
+            <br>
+          </h6>
+        </div>
+        <div class="u-clearfix u-group-elements u-group-elements-5"><span class="u-file-icon u-icon u-icon-5" data-href="https://www.webofscience.com/wos/author/record/GYU-0915-2022" data-target="_blank"><img src="images/download1.png" alt=""></span>
+          <h6 class="u-align-center u-text u-text-default u-text-7"> Web of Science<br>
+            <span style="font-size: 0.625rem;">GYU-0915-2022</span>
+            <br>
+          </h6>
+        </div>
+        <div class="u-clearfix u-group-elements u-group-elements-6"><span class="u-file-icon u-icon u-icon-6" data-href="https://osf.io/mskhf/#!" data-target="_blank"><img src="images/osf-logo-black.original.png" alt=""></span>
+          <h6 class="u-align-center u-text u-text-default u-text-8">Open Science&nbsp;<br>Framework<br>
+          </h6>
+        </div><span class="u-file-icon u-hidden-lg u-hidden-xs u-icon u-icon-7" data-href="https://www.researchgate.net/profile/Praveenbalaji-Rajendran" data-target="_blank"><img src="images/ResearchGate_icon_SVG.svg.png" alt=""></span>
+        <h6 class="u-align-justify u-hidden-lg u-hidden-xs u-text u-text-9"> ResearchGate<br>
+        </h6>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-hidden-sm u-hidden-xs u-section-2" id="sec-b546">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-default u-text-1">Education</h2>
+        <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-group-elements u-group-elements-1">
+          <div class="u-clearfix u-group-elements u-group-elements-2">
+            <img class="u-image u-image-default u-image-1" src="images/Nanyang_Technological_University_coat_of_arms_vector.svg.png" alt="" data-image-width="837" data-image-height="1080">
+            <h1 class="u-align-left u-text u-text-2" spellcheck="false">
+              <span style="font-weight: 700;">Master of Technology&nbsp;</span>
+              <span style="font-weight: 700;">(Biomedical Engineering)</span>
+              <br>
+              <span style="font-size: 1.125rem;">
+                <span style="font-size: 0.75rem;"></span>
+              </span>
+              <br>Aug 2015 - Aug 2017,&nbsp;Indian Institute of Technology&nbsp;Hyderabad, India.
+            </h1>
+            <img class="u-image u-image-contain u-image-default u-image-2" src="images/Anna_University_Logo.svg.png" alt="" data-image-width="1087" data-image-height="1080">
+            <h1 class="u-align-left u-text u-text-3" spellcheck="false"><b>Bachelor of Engineering<br>&nbsp;(Instrumentation and Control Engineering)</b>
+              <br>
+              <span style="font-size: 1.125rem;">
+                <span style="font-size: 0.75rem;"></span>
+              </span>
+              <br>Sep 2010 - May 2014, Anna University, Chennai, India.
+            </h1>
+          </div>
+          <h1 class="u-align-left u-text u-text-4" spellcheck="false">
+            <span style="font-weight: 700;">Doctor of Philosophy (Biomedical Engineering)</span>
+            <br>
+            <span style="font-size: 1.125rem;">
+              <span style="font-size: 0.75rem;"></span>
+            </span>
+            <br>Jan 2019 - Aug 2022,&nbsp;Nanyang Technological University (NTU), Singapore
+          </h1>
+          <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-3" src="images/download.png" alt="" data-image-width="225" data-image-height="225">
+        </div>
+      </div>
+    </section>
+    
+    
+    
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="website-templates" target="_blank">
+        <span>Free Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  
+</body></html>
